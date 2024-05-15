@@ -1,0 +1,9 @@
+After reading many articles regarding which is the best IDE to use. I chose not to use Visual Studio Code as my primary IDE for this course
+because my previous programming class in Java 1 required me to use IntelliJ IDEA as my primary IDE.
+For this, I feel more comfortable not using Visual Studio Code as my main IDE since I have more experience
+using IntelliJ IDEA. In addition to this, I choose not to use Visual Studio Code
+because it offers additional features and tools that I have yet been to be exposed to, which may negatively affect my understanding
+of how to create and execute Java scripts. Apart from this, my final reason for not using Visual Studio Code as my primary IDE is because
+I don't currently have Visual Studio Code installed and configured on my computer. However, I do have IntelliJ IDEA
+installed and configured to my preference on my desktop, which helped me save time from configuring a new IDE on to my computer.
+Overall, these are the reasons I avoided using Visual Studio Code as my primary IDE for this course.

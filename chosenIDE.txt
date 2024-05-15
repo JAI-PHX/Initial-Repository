@@ -1,0 +1,10 @@
+My chosen IDE for this course is IntelliJ IDEA Community Edition. The reason I chose to use IntelliJ IDEA
+as my primary IDE for this class is due to my previous Java 1 course requiring me to use IntelliJ IDEA as my primary IDE.
+This early exposure to IntelliJ IDEA gave me more experience programming in Java, which will help me learn about
+the material in this course more effectively since I don't need to relearn a new IDE. In addition, I have
+already configured and installed IntelliJ IDEA on my desktop, which helped me save time in terms of installing a new IDE and configuring it to my preference.
+Apart from this, the main reason why I chose to use IntelliJ IDEA as my primary IDE for this class is because it integrates seamlessly with Git and GitHub.
+IntelliJ IDEA offers a dedicated version control system that allows me to access Git and any created repository on GitHub.
+This direct connection to Git and GitHub makes it easy for me to commit changes, create branches, and merge code, all without
+needing to leave the IntelliJ IDEA interface. Overall, IntelliJ IDEA with its all-in-one integration
+with GitHub and Git pushed me to use IntelliJ IDEA as my primary IDE for this class.
